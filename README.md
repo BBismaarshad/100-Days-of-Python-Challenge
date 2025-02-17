@@ -27,7 +27,7 @@ Welcome to my **100 Days of Python** challenge! 🎯 In this repository, I will 
 If you're following along or want to try the exercises yourself:
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your-username/100-days-of-python.git
+   git clone https://github.com/BBismaarshad/100-Days-of-Python-Challenge.git
    ```
 2. Navigate into the folder:
    ```sh
